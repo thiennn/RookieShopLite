@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using RookieShop2.Models;
+using RookieShop2.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;

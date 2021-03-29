@@ -1,6 +1,6 @@
 using System;
 
-namespace RookieShop2.Models
+namespace RookieShop2.ViewModels
 {
     public class ErrorViewModel
     {
